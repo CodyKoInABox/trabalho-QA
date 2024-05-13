@@ -1,2 +1,1 @@
-# trabalho-QA
-Trabalho sobre QA e MPSBR do Glauco
+# Trabalho sobre QA e MPSBR do Glauco
